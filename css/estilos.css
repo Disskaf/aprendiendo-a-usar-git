@@ -1,14 +1,21 @@
 body {
   color: white;
-  background-color: green;
+  background-color: gray;
   text-align: center;
   font-family: "Courier";
+}
+
+#cabecera {
+  background: black;
+  color: white;
+  margin: 0;
+  padding: 0Sem;
 }
 
 #container {
   width: 70%;
   padding: lem;
-  text-align: left;
+  text-align: center;
   border: 1px solid white;
 }
 
