@@ -7,6 +7,7 @@ body {
 
 #cabecera {
   background: black;
+  text-align: center;
   color: white;
   margin: 0;
   padding: 0Sem;
@@ -21,4 +22,10 @@ body {
 
 #container h1 {
   font-size: 20px;
+}
+
+#footer {
+  background: white;
+  color: black;
+  text-align: center;
 }
